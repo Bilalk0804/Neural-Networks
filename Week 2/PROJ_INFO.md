@@ -1,0 +1,1 @@
+### This Model tells us that if a image in the one we were searching for or not.###
